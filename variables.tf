@@ -1,9 +1,9 @@
 variable "region" {
-  description = "us-east-1"
+  description = "eu-central-1"
 }
 
 variable "environment" {
-  description = "The Deployment environment"
+  description = "neonfoundation-production"
 }
 
 //Networking
